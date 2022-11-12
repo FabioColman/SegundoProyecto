@@ -1,3 +1,3 @@
 SegundoProyecto
 hola mundo
-segunda pruebañlñlkñl
+segunda prueba
